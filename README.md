@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📖 Ayaan's Learning Journal
+# 📖 Aslam's Learning Journal
 
 ### Learning in Public 🚀 | Student Developer | GitHub Student Pack Explorer
 
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Ayaan** — a passionate student developer on a mission to learn, build, and grow. I'm currently using the **GitHub Student Developer Pack** to access world-class tools and resources for free. This repository is my public learning journal where I document my progress, take notes, and track projects.
+Hi, I'm **Aslam** — a passionate student developer on a mission to learn, build, and grow. I'm currently using the **GitHub Student Developer Pack** to access world-class tools and resources for free. This repository is my public learning journal where I document my progress, take notes, and track projects.
 
 - 🎓 Student Developer
 - 🛠️ Using GitHub Student Developer Pack
@@ -109,10 +109,10 @@ Hi, I'm **Ayaan** — a passionate student developer on a mission to learn, buil
 
 | Platform | Link |
 |----------|------|
-| 🐙 GitHub | [@Ayaan](https://github.com/) |
-| 💼 LinkedIn | [Ayaan on LinkedIn](https://linkedin.com/) |
-| 🐦 Twitter/X | [@Ayaan](https://twitter.com/) |
-| 🌐 Portfolio | [ayaan.dev](https://ayaan.dev) |
+| 🐙 GitHub | [@aslam](https://github.com/) |
+| 💼 LinkedIn | [Aslam on LinkedIn](https://linkedin.com/) |
+| 🐦 Twitter/X | [@Aslam](https://twitter.com/) |
+| 🌐 Portfolio | [Aslam](https://ayaan.dev) |
 
 ---
 
