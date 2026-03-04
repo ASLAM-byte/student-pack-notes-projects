@@ -34,20 +34,6 @@ Hi, I'm **Aslam** — a passionate student developer on a mission to learn, buil
 | 🐍 Python | Basics & OOP | 🟢 Started |
 | 🗃️ CS Fundamentals | Data Structures | 🔴 Upcoming |
 
----
-
-## 📊 Progress Tracker
-
-| Topic | Status | Started | Completed | Notes |
-|-------|--------|---------|-----------|-------|
-| HTML Basics | 🟡 In Progress | 2024-01-01 | — | Working on forms & semantics |
-| CSS Fundamentals | 🟡 In Progress | 2024-01-05 | — | Flexbox & Grid next |
-| JavaScript Basics | 🟢 Started | 2024-01-15 | — | Variables & functions done |
-| Python Basics | 🟢 Started | 2024-01-20 | — | Syntax & loops |
-| Git & GitHub | ✅ Done | 2023-12-01 | 2023-12-15 | Using daily! |
-| Data Structures | 🔴 Upcoming | — | — | Arrays first |
-| React | 🔴 Upcoming | — | — | After JS fundamentals |
-| SQL | 🔴 Upcoming | — | — | Planned for month 3 |
 
 ---
 
